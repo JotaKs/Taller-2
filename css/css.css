@@ -11,6 +11,20 @@ header {
 
 /*SECTION-PAG1*/
 
+.borde{
+    border: 1px solid gray;
+    height: 320px;
+    width: 900px;
+    position: absolute;
+    left: 16.5%;
+    top: 20%;
+    
+}
+
+button {
+    background-color: red;
+    color: white
+}
 
 /*SECTION-PAG2*/
 
