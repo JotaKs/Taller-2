@@ -16,3 +16,12 @@ header {
 
 
 /*FOOTER*/
+footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+    font-size: 35px;
+    background-color: red;
+    color: white;
+}
