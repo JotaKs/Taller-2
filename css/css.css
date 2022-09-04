@@ -14,6 +14,15 @@ header {
 
 /*SECTION-PAG2*/
 
+img {
+    display: block;
+    margin-left: auto;
+}
+section .container1 {
+    
+    display: inline-block;
+    vertical-align: top;
+}
 
 /*FOOTER*/
 footer{
