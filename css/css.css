@@ -15,21 +15,30 @@ header {
 /*SECTION-PAG2*/
 
 .container1 {
-    height: 30%;
-    width: 90%;
+    height: 325px;
+    width: 68%;
     border: 1px solid gray;
     margin-left: 5%;
+    margin:6%;
+    position: relative;
+    left: 120px;
 }
 
 
 img {
     float: right;
-  
+    width: 280px;
+    position: relative;
+    top: 50px;
+    left: -40px;
 }
 /*parrafo */
 #texto{
-    padding: 100px;
-    
+    padding: 160px 210px;
+    font-size: 10px;
+    position: relative;
+    top:-100px;
+    left: -180px;
 }
 
 /*FOOTER*/
