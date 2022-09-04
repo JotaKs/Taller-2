@@ -14,9 +14,26 @@ header {
 
 /*SECTION-PAG2*/
 
+.container1 {
+    height: 30%;
+    width: 90%;
+    border: 1px solid gray;
+    margin-left: 5%;
+}
+
+
+img {
+    float: right;
+  
+}
+/*parrafo */
+#texto{
+    padding: 100px;
+    
+}
 
 /*FOOTER*/
-footer{
+footer {
     display: flex;
     justify-content: space-around;
     align-items: center;
