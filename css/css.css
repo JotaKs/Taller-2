@@ -11,20 +11,23 @@ header {
 
 /*SECTION-PAG1*/
 
+.containerpag1{
+    height: 440px;
+}
 
 .img1 {
-    width: 600px;
-    height: 338px;
+    width: 500px;
+    position: relative;
+    top: 10px;
 }
 
 
 .margen_pag1 {
     border: 2px solid gray;
-    height: 370px;
-    width: 1160px;
+    height: 300px;
+    width: 950px;
     position: absolute;
-    left: 20%;
-    right: 18%;
+    left: 13%;
 
 }
 
@@ -33,10 +36,13 @@ button {
     color: white
 }
 
+.boton{
+    padding: 10px;
+}
 /*SECTION-PAG2*/
 
 .container1 {
-    height: 325px;
+    height: 290px;
     width: 68%;
     border: 1px solid gray;
     margin-left: 5%;
@@ -45,7 +51,6 @@ button {
     left: 120px;
 }
 
-/* */
 .container1 img {
     float: right;
     width: 280px;
@@ -53,7 +58,6 @@ button {
     top: 50px;
     left: -40px;
 }
- */
 
 /*parrafo */
 #texto {
